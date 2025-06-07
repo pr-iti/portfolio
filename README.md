@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience using modern web technologies — **HTML**, **CSS**, and **JavaScript**.
 
-## 🔍 Overview
+## 🔍 Overview details
 
 This portfolio is designed to provide a clean, responsive, and interactive user experience. It includes:
 - A landing/home section
