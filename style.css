@@ -97,7 +97,7 @@ body{
     align-items: center;
     padding: 60px 7% 0;
 }
-.home.home-content{
+.home .home-content{
     max-width: 440px;
 }
 .home-content h3 {
@@ -124,6 +124,7 @@ body{
     opacity: 0;
     animation: slideLeft 1s ease forwards;
     animation-delay: .1s;
+    text-align: center;
 }
 .social-media a {
     display: inline-flex;
@@ -319,7 +320,7 @@ body{
         transform: rotate(-180deg);
     }
      75% ,90% {
-        transform: rotate(-2700deg);
+        transform: rotate(-270deg);
     }
     100% {
         transform: rotate(-360deg);
